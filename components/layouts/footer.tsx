@@ -81,7 +81,7 @@ export default function Footer() {
                         </a>
                     ))}
                 </div>
-                <div className="mt-8 md:order-1 md:mt-0"><Script type="text/javascript" src="https://js.juicyads.com/jp.php?c=947403z2v256s2x2w264x294&u=http%3A%2F%2Fwww.juicyads.rocks"></Script>
+                <div className="mt-8 md:order-1 md:mt-0">&lt;!-- JuicyAds PopUnders v3 Start --&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;https://js.juicyads.com/jp.php?c=947403z2v256s2q2t26413a4&amp;u=http%3A%2F%2Fwww.juicyads.rocks&quot;&gt;&lt;/script&gt;&lt;!-- JuicyAds PopUnders v3 End --&gt;&lt;!-- JuicyAds v3.2P Start --&gt;&lt;script type=&quot;text/javascript&quot;&gt;var juicy_tags = [&#39;a&#39;, &#39;img&#39;];&lt;/script&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;https://js.juicyads.com/jp.php?c=947403z2v256s2q2t26413a4&amp;u=http%3A%2F%2Fwww.juicyads.rocks&quot;&gt;&lt;/script&gt;&lt;!-- JuicyAds v3.2P End --&gt;
                     <p className="text-center text-xs leading-5 text-gray-500 uppercase">
                         {SITENAME} &copy; {year} &mdash; Inc. All rights
                         reserved.
