@@ -1,5 +1,5 @@
 import { SITENAME } from "@/lib/constants";
-
+import Script from 'next/script';
 const navigation = [
     {
         name: "Facebook",
@@ -81,7 +81,7 @@ export default function Footer() {
                         </a>
                     ))}
                 </div>
-                <div className="mt-8 md:order-1 md:mt-0"><script type="text/javascript" src="https://js.juicyads.com/jp.php?c=947403z2v256s2x2w264x294&u=http%3A%2F%2Fwww.juicyads.rocks"></script>
+                <div className="mt-8 md:order-1 md:mt-0"><Script type="text/javascript" src="https://js.juicyads.com/jp.php?c=947403z2v256s2x2w264x294&u=http%3A%2F%2Fwww.juicyads.rocks"></Script>
                     <p className="text-center text-xs leading-5 text-gray-500 uppercase">
                         {SITENAME} &copy; {year} &mdash; Inc. All rights
                         reserved.
